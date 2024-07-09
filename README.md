@@ -21,9 +21,18 @@ https://youtube.com/playlist?list=PLw38TXE3fZZQGd58RTj0t1EmCzSZqRi1M&si=LJ74rhuJ
 2. Python Implementation of the Models: https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&feature=shared
 3. Projects after learning ML Models (Assignment for week 2 & 3) https://www.analyticsvidhya.com/blog/2023/05/top-github-data-science-projects-and-machine-learning-projects/
 
-Week 4 (status: in progress)
+
+Week 4 (Seen)
 Focussed learning on Grid Search CV and Randomised Search CV 
 https://www.analyticsvidhya.com/blog/2022/02/a-comprehensive-guide-on-hyperparameter-tuning-and-its-techniques/
+
+
+Week 5 (Status:seen)
+https://www.youtube.com/results?search_query=time+series+talk-+stationarity
+https://www.youtube.com/watch?v=810jmf7dr (video Unavailable)
+https://www.youtube.com/watch?v=PUk5E8G1r44
+
+
 
 
    
