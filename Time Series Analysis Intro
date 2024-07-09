@@ -1,0 +1,15 @@
+# Time Series Talk- Stationarity
+
+What makes a time series stationary?-
+Stationarity means that the mean of the time series is constant
+The Standard Deviation is also constant
+There is no seasonality (Seasonality is a periodic behavior over time that is predictable)
+
+(If a time series is white noise, we also know it’s stationary)
+
+Checking for Stationarity-
+Visually
+Global v.s. Local tests
+Augmented Dickey Fuller Test (ADF)
+
+		
